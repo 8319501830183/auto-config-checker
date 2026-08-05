@@ -1,1 +1,5 @@
 xray-checker: https://github.com/kutovoys/xray-checker (Releases)
+
+1. Распаковать xray-checker.exe в папку к config-checker.py
+2. Запустить (python config-checker.py)
+
